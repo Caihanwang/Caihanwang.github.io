@@ -10,13 +10,13 @@ description: A blog about technology and stuff related
 # external-image: false
 # picture: assets/images/profile.jpg
 external-image: false
-picture: Macintosh HD/Users/wangcaihan/Downloads/IMG_8971.jpg
+picture: assets/images/IMG_8971.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/Wang, Caihan's .pdf
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
