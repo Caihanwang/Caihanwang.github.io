@@ -4,7 +4,7 @@ layout: post
 date: 2021-09-12 22:48
 # image: /assets/images/markdown.jpg
 headerImage: false
-tag: BIOS823
+tag: BIOS823, Python
 # - markdown
 # - components
 # - extra
