@@ -2,7 +2,7 @@
 title: "NFL Player Prediction"
 layout: post
 date: 2021-03-01 22:10
-#tag: jekyll
+tag: python
 #image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
@@ -12,7 +12,6 @@ category: project
 author: Caihan
 externalLink: false
 ---
-# Prediction of NFL Player
 
 
 ## Description
@@ -42,6 +41,7 @@ The raw data looks like:
 | Babineaux, Jonathan | 95     | defensive tackle | 74          | 300         | 10/12/81      | ATL  | libra     |
 | Davis, Dominique    | 4      | quarterback      | 75          | 210         | 7/17/89       | ATL  | cancer    |
 | Goodman, Malliciah  | 93     | defensive end    | 76          | 276         | 1/4/90        | ATL  | capricorn |  
+
 We need to create a model using this data and predict the best position for any given height and weight.
 <br>  
 <br>
