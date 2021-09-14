@@ -1,5 +1,5 @@
 ---
-title: "An Application of Stroke Prediction"
+title: "Application of Stroke Prediction"
 layout: post
 date: 2021-04-28 22:10
 #tag: jekyll
