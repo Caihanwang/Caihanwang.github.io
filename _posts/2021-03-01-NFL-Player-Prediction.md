@@ -59,6 +59,7 @@ for position in Positions:
     aver_height.append(height)
 ```
 The result is as following:  
+
 | Positions        | Average Height (in) | Average Weight (lb) |
 |------------------|---------------------|---------------------|
 | cornerback       | 71.41               | 193.39              |
