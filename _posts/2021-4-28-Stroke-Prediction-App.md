@@ -2,7 +2,7 @@
 title: "Application of Stroke Prediction"
 layout: post
 date: 2021-04-28 22:10
-#tag: jekyll
+tag: Python
 #image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
@@ -12,7 +12,7 @@ category: project
 author: Caihan
 externalLink: false
 ---
-# Stroke Prediction 
+
 
 
 ## Description
