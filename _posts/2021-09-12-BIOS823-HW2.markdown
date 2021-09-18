@@ -210,7 +210,9 @@ if __name__ == '__main__':
     test_find_prime()
     print("pass all the tests")
 ```  
-After testing, the result is "pass all the tests", so the functions are working.
+After testing, the result is "pass all the tests", so the functions are working.  
+
+---
 
 
 ## Answer
