@@ -214,6 +214,10 @@ After testing, the result is "pass all the tests", so the functions are working.
 
 
 ## Answer
+```python
+answer = find_prime(17*pi,10)
+print("The first 10-digit prime in the decimal expansion of 17π is", answer)
+```
 **The first 10-digit prime in the decimal expansion of 17π is 8649375157**
 
 ---
